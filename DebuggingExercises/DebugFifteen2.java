@@ -19,8 +19,8 @@ public class DebugFifteen2 extends JFrame
       con.add(nb,BorderLayout.NORTH);
       con.add(sb, BorderLayout.SOUTH);
       con.add(eb, BorderLayout.EAST);
-      con.add(wb, BorderLayout.WEST);
-      con.add(cb, BorderLayout.CENTER);
+      con.add(cb, BorderLayout.WEST);
+      con.add(wb, BorderLayout.CENTER);
    }
    public static void main(String[] args)
    {
